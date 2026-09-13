@@ -1,157 +1,163 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0C29,50:302B63,100:24243E&height=250&section=header&text=Hi,%20I'm%20Baiel&fontSize=60&fontColor=00F5D4&fontAlignY=45&animation=twinkling&desc=ML%2FDL%20Engineer%20•%20Backend%20Dev%20•%20Bishkek%2C%20KG&descAlignY=65&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=280&section=header&text=BAIEL&fontSize=100&fontColor=39FF14&fontAlignY=40&animation=fadeIn&desc=ML%2FDL%20ENGINEER%20//%20BACKEND%20DEVELOPER%20//%20BISHKEK&descAlignY=62&descColor=00F5D4&fontFamily=JetBrains+Mono" />
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/RXGNsyRb1hSPYSXTv3/giphy.gif" width="500"/>
 
 <br/>
 
 <a href="https://github.com/baieldevkg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=%3E+training_neural_networks.py+--epochs+100;%3E+building+FastAPI+services+⚡;%3E+deploying+aiogram+bots+to+prod+🤖;%3E+sudo+debug+--forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=%3E+SYSTEM+STATUS%3A+UNSTOPPABLE;%3E+SKILL_LEVEL%3A+MAXIMUM;%3E+ROLE%3A+ML+ENGINEER+%26+BACKEND+DEV;%3E+MISSION%3A+SHIP+FAST+%2B+BREAK+NOTHING" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5D4?style=for-the-badge&labelColor=0F0C29" />
-<img src="https://komarev.com/ghpvc/?username=baieldevkg&color=302B63&style=for-the-badge&labelColor=0F0C29&label=VISITORS" />
+<img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-39FF14?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🔥_STREAK-ON_FIRE-FF3131?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🧠_MODE-BUILD_MODE-00F5D4?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00F5D4" width="100%"/>
-
-## `01.` whoami
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-developer:
-  name: Baiel
-  base: Bishkek, Kyrgyzstan 🇰🇬
-  role: ML/DL Engineer & Backend Developer
-  focus:
-    - Neural networks & data science
-    - Telegram bots (aiogram)
-    - REST APIs (FastAPI)
-  mindset: "модель не должна переобучаться,
-            а я — перегорать 🔥"
-  status: building something new right now
-```
-
-</td>
-<td width="45%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=baieldevkg&theme=radical&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=ffffff&layout=compact" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00F5D4" width="100%"/>
-
-## `02.` stack.json
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,postgres,docker,redis,git,linux,vscode,js&theme=dark" />
+## ⚔️ КТО Я
+
+</div>
+
+```diff
++ Baiel — не просто разработчик, а тот, кто превращает идеи в код, а код в результат.
++ Учу нейросети думать, а серверы — не падать.
++ Пишу ботов, которые работают, пока я сплю.
++ Каждый баг — это просто фича, которая ещё не готова признать своё поражение.
+```
+
+<div align="center">
+
+| 🎯 Фокус | 🚀 Что делаю |
+|---|---|
+| Machine Learning / Deep Learning | Обучаю модели, которые реально работают |
+| Backend Development | FastAPI + PostgreSQL + Docker — прод-ready за дни |
+| Telegram Bots | aiogram-боты для реальных бизнес-задач |
+| Мышление | Быстро учусь, быстро внедряю, не тормозю |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+
+<div align="center">
+
+## 🛠️ АРСЕНАЛ
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,postgres,docker,redis,git,github,linux,vscode,js,ts&theme=dark&perline=7"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00F5D4" width="100%"/>
-
-## `03.` projects.list()
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
 
 <div align="center">
+
+## 💼 БОЕВЫЕ ПРОЕКТЫ
+
 <table>
 <tr>
-<th>Проект</th><th>Описание</th><th>Стек</th><th></th>
+<td width="50%" valign="top">
+
+### 🛒 online-stor
+**Полноценная e-commerce платформа**
+Каталог, корзина, заказы — всё на Python.
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/online-stor)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 mashina_kg
+**Платформа объявлений по авто в КР**
+Поиск, фильтры, реальные пользователи.
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/mashina_kg)
+
+</td>
 </tr>
 <tr>
-<td><b>🛒 online-stor</b></td>
-<td>Онлайн-магазин, e-commerce платформа</td>
-<td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td><a href="https://github.com/baieldevkg/online-stor">→ repo</a></td>
-</tr>
-<tr>
-<td><b>🚗 mashina_kg</b></td>
-<td>Площадка объявлений об авто в КР</td>
-<td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td><a href="https://github.com/baieldevkg/mashina_kg">→ repo</a></td>
-</tr>
-<tr>
-<td><b>👤 my_profile2</b></td>
-<td>Личный сайт-портфолио</td>
-<td><img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
-<td><a href="https://github.com/baieldevkg/my_profile2">→ repo</a></td>
-</tr>
-<tr>
-<td><b>🌐 testSite</b></td>
-<td>Эксперименты с веб-технологиями</td>
-<td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
-<td><a href="https://github.com/baieldevkg/testSite">→ repo</a></td>
+<td width="50%" valign="top">
+
+### 👤 my_profile2
+**Личное портфолио**
+Витрина навыков и проектов.
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/my_profile2)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 testSite
+**Полигон для экспериментов**
+Новые технологии проверяются здесь первыми.
+
+[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/testSite)
+
+</td>
 </tr>
 </table>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00F5D4" width="100%"/>
-
-## `04.` stats.render()
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baieldevkg&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C29&title_color=00F5D4&icon_color=00F5D4&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baieldevkg&layout=donut&theme=radical&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=ffffff" height="165"/>
+## 📊 ЦИФРЫ НЕ ВРУТ
+
+<img src="https://github-readme-stats.vercel.app/api?username=baieldevkg&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baieldevkg&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=baieldevkg&theme=radical&hide_border=true&background=0F0C29&stroke=00F5D4&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4"/>
+<img src="https://streak-stats.demolab.com?user=baieldevkg&theme=highcontrast&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=FF3131&currStreakLabel=39FF14"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baieldevkg&theme=react-dark&hide_border=true&bg_color=0F0C29&color=00F5D4&line=00F5D4&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baieldevkg&theme=react-dark&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=ffffff" width="95%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00F5D4" width="100%"/>
-
-## `05.` snake.gif
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<sub>⚠️ анимация змейки подключается через GitHub Action — см. заметку ниже</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=00F5D4" width="100%"/>
-
-## `06.` contact.send()
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-baieldevkg-00F5D4?style=for-the-badge&logo=github&logoColor=0F0C29&labelColor=0F0C29)](https://github.com/baieldevkg)
-[![Telegram](https://img.shields.io/badge/Telegram-Message_me-00F5D4?style=for-the-badge&logo=telegram&logoColor=0F0C29&labelColor=0F0C29)](https://t.me/)
+## 🏆 ТРОФЕИ
 
-<br/>
-
-```
-while alive:
-    keep_learning()
-    build_something_cool()
-    if bug_found:
-        fix_it_at_3am()
-```
+<img src="https://github-profile-trophy.vercel.app/?username=baieldevkg&theme=matrix&no-frame=true&column=7&margin-w=4&row=1"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+
+<div align="center">
+
+## 📡 НА СВЯЗИ
+
+[![GitHub](https://img.shields.io/badge/GitHub-baieldevkg-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/baieldevkg)
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-000000?style=for-the-badge&logo=telegram&logoColor=00F5D4)](https://t.me/)
+
+<br/>
+
+### `"Код — это оружие. Я знаю, как им пользоваться."`
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=150&section=footer"/>
+
+</div>

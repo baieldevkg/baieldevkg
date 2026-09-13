@@ -1,11 +1,11 @@
-ё<div align="center">
+<div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Baiel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bishkek%2C%20Kyrgyzstan%20🇰🇬&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:00D9FF&height=220&section=header&text=Baiel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%2FDL%20%7C%20Backend%20Developer%20%7C%20Bishkek%2C%20Kyrgyzstan%20🇰🇬&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
 <a href="https://github.com/baieldevkg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Python+Developer+🐍;Web+Developer+🌐;Always+learning+new+things+📚;Building+cool+projects+🚀;Open+to+opportunities+💼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+🧠;Python+Backend+Developer+🐍;FastAPI+%7C+aiogram+%7C+Telegram+Bots+🤖;Building+smart+systems+every+day+🚀;Open+to+opportunities+💼" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/followers/baieldevkg?label=Followers&style=social" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=baieldevkg&color=7F77DD&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=baieldevkg&color=00D9FF&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -23,20 +23,21 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
-### 🙋‍♂️ About Me
+### 🙋‍♂️ Обо мне
 
 ```python
 class Baiel:
-    name       = "Baiel"
-    username   = "baieldevkg"
-    location   = "Bishkek, Kyrgyzstan 🇰🇬"
-    languages  = ["Python", "JavaScript", "TypeScript"]
-    hobbies    = ["Coding", "PC Gaming 🎮", "Building projects"]
-    currently  = "Learning & building every day 🚀"
-    open_to    = "Collaborations & opportunities"
+    name        = "Baiel"
+    username    = "baieldevkg"
+    location    = "Bishkek, Kyrgyzstan 🇰🇬"
+    focus       = ["Machine Learning", "Deep Learning", "Backend Dev"]
+    stack       = ["Python", "FastAPI", "aiogram", "PyTorch", "TensorFlow"]
+    hobbies     = ["Coding", "PC Gaming 🎮", "Обучение нейросетей"]
+    currently   = "Прокачиваю ML/DL и пилю Telegram-ботов 🤖"
+    open_to     = "Коллабы и предложения по работе"
 
     def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great together.")
+        print("Спасибо, что заглянул! Го делать что-то крутое вместе 🚀")
 
 me = Baiel()
 me.say_hi()
@@ -46,30 +47,47 @@ me.say_hi()
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Технологии
 
 <div align="center">
 
-**Languages**
+**Языки**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**
+**Machine Learning / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Backend & Боты**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Инструменты**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Проекты
 
 <div align="center">
 <table>
@@ -78,10 +96,10 @@ me.say_hi()
 
 **🛒 online-stor**
 
-> Online store web application built with Python.
-> Full-featured e-commerce platform.
+> Онлайн-магазин на Python.
+> Полноценная e-commerce платформа.
 
-[![Repo](https://img.shields.io/badge/View_Repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/baieldevkg/online-stor)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/online-stor)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -89,10 +107,10 @@ me.say_hi()
 
 **🚗 mashina_kg**
 
-> Car listings platform for Kyrgyzstan market.
-> Search, filter and browse vehicles.
+> Площадка объявлений по продаже авто в Кыргызстане.
+> Поиск, фильтры, парсинг данных.
 
-[![Repo](https://img.shields.io/badge/View_Repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/baieldevkg/mashina_kg)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/mashina_kg)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -102,10 +120,10 @@ me.say_hi()
 
 **👤 my_profile2**
 
-> Personal portfolio website.
-> Showcasing my work and skills.
+> Личный портфолио-сайт.
+> Показываю свои работы и навыки.
 
-[![Repo](https://img.shields.io/badge/View_Repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/baieldevkg/my_profile2)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/my_profile2)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
@@ -113,10 +131,10 @@ me.say_hi()
 
 **🌐 testSite**
 
-> Web development experiments and projects.
-> Testing new technologies and ideas.
+> Эксперименты с веб-технологиями.
+> Тестирование новых идей и стека.
 
-[![Repo](https://img.shields.io/badge/View_Repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/baieldevkg/testSite)
+[![Repo](https://img.shields.io/badge/View_Repo-00D9FF?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/testSite)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -126,26 +144,26 @@ me.say_hi()
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub статистика
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baieldevkg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7F77DD&icon_color=7F77DD&text_color=ffffff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baieldevkg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=baieldevkg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baieldevkg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" height="170" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=baieldevkg&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F77DD&ring=7F77DD&fire=FF6B6B&currStreakLabel=7F77DD" />
+<img src="https://streak-stats.demolab.com?user=baieldevkg&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baieldevkg&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F77DD&line=7F77DD&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=baieldevkg&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" width="95%" />
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### 🏆 Трофеи
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=baieldevkg&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="100%" />
@@ -155,17 +173,18 @@ me.say_hi()
 
 <div align="center">
 
-### 📫 Let's Connect
+### 📫 Связаться со мной
 
 [![GitHub](https://img.shields.io/badge/GitHub-baieldevkg-181717?style=for-the-badge&logo=github)](https://github.com/baieldevkg)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 
 <br/>
 
-_"The best time to start was yesterday. The second best time is now."_
+_"Нейросеть не устанет, а вот кофе точно закончится."_ ☕🧠
 
 <br/>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:00D9FF&height=120&section=footer" />
 
 </div>

@@ -50,6 +50,66 @@
 
 <div align="center">
 
+## 📄 РЕЗЮМЕ
+
+</div>
+
+```yaml
+имя:       Bayel Duishegaziev
+роль:      Data Scientist / ML Engineer (Junior)
+локация:   Bishkek, Kyrgyzstan 🇰🇬
+email:     baya01676@gmail.com
+linkedin:  linkedin.com/in/bayel-duyshegaziev
+статус:    в активном поиске первой работы / стажировки
+```
+
+<div align="center">
+
+> Junior-специалист в Data Science и разработке. Быстро учусь и применяю широкий стек — от backend на Python до ML, компьютерного зрения и AI-агентов. Готов брать на себя задачи и расти в ML/DL и backend-разработке.
+
+</div>
+
+**🧩 Навыки по направлениям**
+
+| Направление | Технологии |
+|---|---|
+| **Backend / API** | FastAPI, Django, Django REST Framework, Django Allauth, JWT, SQLAlchemy, Alembic |
+| **ML / DL / AI** | Machine Learning, Deep Learning, OpenCV, AI Agents, Dify |
+| **Боты** | aiogram (Telegram-боты) |
+| **Базы данных** | SQL, Redis |
+| **Frontend** | React, HTML, CSS, JavaScript |
+| **Инструменты** | Git, Linux, Docker, WebSocket, Postman |
+
+**💼 Опыт**
+
+> Коммерческого опыта пока нет — активно ищу первую работу/стажировку. Все навыки наработаны через самообучение и личные проекты: backend на FastAPI/Django, Telegram-боты на aiogram, ML/DL и компьютерное зрение с OpenCV, интеграция AI-агентов через Dify.
+
+**📁 Проекты из резюме**
+
+- 🤖 **ml_all_poject** — ML-проекты и эксперименты → [github.com/baieldevkg/ml_all_poject](https://github.com/baieldevkg/ml_all_poject)
+- 🚗 **mashina_kg** — маркетплейс объявлений об авто → [github.com/baieldevkg/mashina_kg](https://github.com/baieldevkg/mashina_kg)
+
+**🌍 Языки**
+
+<div align="center">
+
+![Russian](https://img.shields.io/badge/Русский-Родной-39FF14?style=flat-square&labelColor=000000)
+![English](https://img.shields.io/badge/English-A2_(технический_читаю_свободно)-00F5D4?style=flat-square&labelColor=000000)
+![Kyrgyz](https://img.shields.io/badge/Кыргызча-Разговорный-FF3131?style=flat-square&labelColor=000000)
+![German](https://img.shields.io/badge/Deutsch-A1-9D4EDD?style=flat-square&labelColor=000000)
+
+</div>
+
+<div align="center">
+
+[![Скачать резюме PDF](https://img.shields.io/badge/📄_СКАЧАТЬ_РЕЗЮМЕ_(PDF)-39FF14?style=for-the-badge&labelColor=000000)](https://github.com/baieldevkg/baieldevkg/blob/main/assets/resume.pdf)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+
+<div align="center">
+
 ## 🛠️ АРСЕНАЛ
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,postgres,docker,redis,git,github,linux,vscode,js,ts&theme=dark&perline=7"/>

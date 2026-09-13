@@ -1,223 +1,103 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=280&section=header&text=BAIEL&fontSize=100&fontColor=39FF14&fontAlignY=40&animation=fadeIn&desc=ML%2FDL%20ENGINEER%20//%20BACKEND%20DEVELOPER%20//%20BISHKEK&descAlignY=62&descColor=00F5D4&fontFamily=JetBrains+Mono" />
-
-<img src="https://media.giphy.com/media/RXGNsyRb1hSPYSXTv3/giphy.gif" width="500"/>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Baiel%20Developer&fontSize=55&fontColor=00F5D4&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20ML%2FDL%20%7C%20Backend&descAlignY=58&descColor=ffffff" />
 
 <a href="https://github.com/baieldevkg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=700&height=50&lines=%3E+SYSTEM+STATUS%3A+UNSTOPPABLE;%3E+SKILL_LEVEL%3A+MAXIMUM;%3E+ROLE%3A+ML+ENGINEER+%26+BACKEND+DEV;%3E+MISSION%3A+SHIP+FAST+%2B+BREAK+NOTHING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+🧠;FastAPI+%2B+Django+Backend+⚙️;Telegram+Bots+на+aiogram+🤖;Computer+Vision+с+OpenCV+👁️;Учусь+каждый+день+и+расту+🚀" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/⚡_POWER_LEVEL-OVER_9000-39FF14?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🔥_STREAK-ON_FIRE-FF3131?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/🧠_MODE-BUILD_MODE-00F5D4?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+## 🧠 Что я умею
 
 <div align="center">
 
-## ⚔️ КТО Я
-
-</div>
-
-```diff
-+ Baiel — не просто разработчик, а тот, кто превращает идеи в код, а код в результат.
-+ Учу нейросети думать, а серверы — не падать.
-+ Пишу ботов, которые работают, пока я сплю.
-+ Каждый баг — это просто фича, которая ещё не готова признать своё поражение.
-```
-
-<div align="center">
-
-| 🎯 Фокус | 🚀 Что делаю |
-|---|---|
-| Machine Learning / Deep Learning | Обучаю модели, которые реально работают |
-| Backend Development | FastAPI + PostgreSQL + Docker — прод-ready за дни |
-| Telegram Bots | aiogram-боты для реальных бизнес-задач |
-| Мышление | Быстро учусь, быстро внедряю, не тормозю |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
-
-<div align="center">
-
-## 📄 РЕЗЮМЕ
-
-</div>
-
-```yaml
-имя:       Bayel Duishegaziev
-роль:      Data Scientist / ML Engineer (Junior)
-локация:   Bishkek, Kyrgyzstan 🇰🇬
-email:     baya01676@gmail.com
-linkedin:  linkedin.com/in/bayel-duyshegaziev
-статус:    в активном поиске первой работы / стажировки
-```
-
-<div align="center">
-
-> Junior-специалист в Data Science и разработке. Быстро учусь и применяю широкий стек — от backend на Python до ML, компьютерного зрения и AI-агентов. Готов брать на себя задачи и расти в ML/DL и backend-разработке.
-
-</div>
-
-**🧩 Навыки по направлениям**
-
-| Направление | Технологии |
-|---|---|
-| **Backend / API** | FastAPI, Django, Django REST Framework, Django Allauth, JWT, SQLAlchemy, Alembic |
-| **ML / DL / AI** | Machine Learning, Deep Learning, OpenCV, AI Agents, Dify |
-| **Боты** | aiogram (Telegram-боты) |
-| **Базы данных** | SQL, Redis |
-| **Frontend** | React, HTML, CSS, JavaScript |
-| **Инструменты** | Git, Linux, Docker, WebSocket, Postman |
-
-**💼 Опыт**
-
-> Коммерческого опыта пока нет — активно ищу первую работу/стажировку. Все навыки наработаны через самообучение и личные проекты: backend на FastAPI/Django, Telegram-боты на aiogram, ML/DL и компьютерное зрение с OpenCV, интеграция AI-агентов через Dify.
-
-**📁 Проекты из резюме**
-
-- 🤖 **ml_all_poject** — ML-проекты и эксперименты → [github.com/baieldevkg/ml_all_poject](https://github.com/baieldevkg/ml_all_poject)
-- 🚗 **mashina_kg** — маркетплейс объявлений об авто → [github.com/baieldevkg/mashina_kg](https://github.com/baieldevkg/mashina_kg)
-
-**🌍 Языки**
-
-<div align="center">
-
-![Russian](https://img.shields.io/badge/Русский-Родной-39FF14?style=flat-square&labelColor=000000)
-![English](https://img.shields.io/badge/English-A2_(технический_читаю_свободно)-00F5D4?style=flat-square&labelColor=000000)
-![Kyrgyz](https://img.shields.io/badge/Кыргызча-Разговорный-FF3131?style=flat-square&labelColor=000000)
-![German](https://img.shields.io/badge/Deutsch-A1-9D4EDD?style=flat-square&labelColor=000000)
-
-</div>
-
-<div align="center">
-
-[![Скачать резюме PDF](https://img.shields.io/badge/📄_СКАЧАТЬ_РЕЗЮМЕ_(PDF)-39FF14?style=for-the-badge&labelColor=000000)](https://github.com/baieldevkg/baieldevkg/blob/main/assets/resume.pdf)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
-
-<div align="center">
-
-## 🛠️ АРСЕНАЛ
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,sklearn,postgres,docker,redis,git,github,linux,vscode,js,ts&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytorch,tensorflow,sklearn,opencv,postgres,redis,docker,git,js&theme=dark&perline=6"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Agents-00F5D4?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+<br/>
+
+## 💼 Проекты
 
 <div align="center">
-
-## 💼 БОЕВЫЕ ПРОЕКТЫ
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛒 online-stor
-**Полноценная e-commerce платформа**
-Каталог, корзина, заказы — всё на Python.
+**🧠 ml_all_poject**
+ML-проекты и эксперименты
 
-[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/online-stor)
+[![Repo](https://img.shields.io/badge/OPEN-00F5D4?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/ml_all_poject)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🚗 mashina_kg
-**Платформа объявлений по авто в КР**
-Поиск, фильтры, реальные пользователи.
+**🚗 mashina_kg**
+Маркетплейс объявлений по авто
 
-[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/mashina_kg)
+[![Repo](https://img.shields.io/badge/OPEN-00F5D4?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/mashina_kg)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 👤 my_profile2
-**Личное портфолио**
-Витрина навыков и проектов.
+**🛒 online-stor**
+E-commerce платформа на Python
 
-[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/my_profile2)
+[![Repo](https://img.shields.io/badge/OPEN-00F5D4?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/online-stor)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🌐 testSite
-**Полигон для экспериментов**
-Новые технологии проверяются здесь первыми.
+**👤 my_profile2**
+Личное портфолио
 
-[![Repo](https://img.shields.io/badge/OPEN_REPO-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/baieldevkg/testSite)
+[![Repo](https://img.shields.io/badge/OPEN-00F5D4?style=flat-square&logo=github&logoColor=black)](https://github.com/baieldevkg/my_profile2)
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+## 📊 Статистика
 
 <div align="center">
 
-## 📊 ЦИФРЫ НЕ ВРУТ
-
-<img src="https://github-readme-stats.vercel.app/api?username=baieldevkg&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baieldevkg&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff" height="170"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=baieldevkg&theme=highcontrast&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=FF3131&currStreakLabel=39FF14"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=baieldevkg&theme=react-dark&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=ffffff" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=baieldevkg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baieldevkg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=ffffff" height="165"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+## 🐍 Активность
 
 <div align="center">
 
-## 🏆 ТРОФЕИ
-
-<img src="https://github-profile-trophy.vercel.app/?username=baieldevkg&theme=matrix&no-frame=true&column=7&margin-w=4&row=1"/>
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/baieldevkg/baieldevkg/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<!--END_SECTION:waka-->
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=39FF14" width="100%"/>
+> 💡 Змейка выше подключается через GitHub Action один раз — инструкция ниже.
+
+## 📫 Контакты
 
 <div align="center">
 
-## 📡 НА СВЯЗИ
-
-[![GitHub](https://img.shields.io/badge/GitHub-baieldevkg-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/baieldevkg)
-[![Telegram](https://img.shields.io/badge/Telegram-Написать-000000?style=for-the-badge&logo=telegram&logoColor=00F5D4)](https://t.me/)
-
-<br/>
-
-### `"Код — это оружие. Я знаю, как им пользоваться."`
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:000000&height=150&section=footer"/>
+[![GitHub](https://img.shields.io/badge/GitHub-baieldevkg-000000?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/baieldevkg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bayel--duyshegaziev-000000?style=for-the-badge&logo=linkedin&logoColor=00F5D4)](https://linkedin.com/in/bayel-duyshegaziev)
+[![Telegram](https://img.shields.io/badge/Telegram-@BAIEL99-000000?style=for-the-badge&logo=telegram&logoColor=00F5D4)](https://t.me/BAIEL99)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" />

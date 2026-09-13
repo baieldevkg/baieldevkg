@@ -1,10 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=250&section=header&text=Baiel%20Developer&fontSize=55&fontColor=00F5D4&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20ML%2FDL%20%7C%20Backend&descAlignY=58&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:1a1033,100:2b0a3d&height=250&section=header&text=BAIEL.DEV&fontSize=60&fontColor=00F5D4&fontAlignY=38&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Backend%20Developer&descAlignY=58&descColor=ffffff" />
 
 <a href="https://github.com/baieldevkg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+🧠;FastAPI+%2B+Django+Backend+⚙️;Telegram+Bots+на+aiogram+🤖;Computer+Vision+с+OpenCV+👁️;Учусь+каждый+день+и+расту+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FF3D81&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning+🧠;FastAPI+%2B+Django+Backend+⚙️;Telegram+Bots+на+aiogram+🤖;Computer+Vision+с+OpenCV+👁️;Учусь+каждый+день+и+расту+🚀" alt="Typing SVG" />
 </a>
+
+</div>
+
+<br/>
+
+## 🎮 Сыграй против моего ИИ
+
+<div align="center">
+
+Крестики-нолики против непобедимого бота на minimax — попробуй хотя бы свести в ничью.
+
+[![Играть](https://img.shields.io/badge/▶_ИГРАТЬ_ПРОТИВ_ИИ-00F5D4?style=for-the-badge&labelColor=0a0e17)](https://baieldevkg.github.io/baieldevkg/game.html)
 
 </div>
 
@@ -100,4 +112,4 @@ E-commerce платформа на Python
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,50:1a1033,100:2b0a3d&height=120&section=footer" />
